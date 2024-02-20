@@ -1,0 +1,12 @@
+﻿  ConsoleApplication2,Math Game.cpp
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(129,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(130,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(134,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(135,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(139,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(140,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(151,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(152,25): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(156,21): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game\ConsoleApplication2,Math Game.cpp(279,47): warning C4244: 'argument': conversion from 'float' to 'short', possible loss of data
+  ConsoleApplication2,Math Game.vcxproj -> C:\Users\LenOvo\source\repos\Project 1-5\ConsoleApplication2,Math Game\x64\Debug\ConsoleApplication2,Math Game.exe
